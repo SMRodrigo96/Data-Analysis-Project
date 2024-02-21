@@ -19,5 +19,5 @@ customers, sales dates, quantities sold, and prices.
 
 ## Archivos del Proyecto
 
-- [Archivo .pbix](https://github.com/SMRodrigo96/Data-Analysis-Project/raw/main/ProyectoFinal.pbix) -
+- [Archivo .pbix](https://github.com/SMRodrigo96/Data-Analysis-Project/raw/main/ProyectoFinal.pbix) - Download the .pbix file to view the project in Power BI.
 
